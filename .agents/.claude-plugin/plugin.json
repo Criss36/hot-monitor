@@ -1,0 +1,9 @@
+{
+  "name": "project-skills",
+  "version": "1.0.0",
+  "description": "Project-specific agent skills for hot-monitor",
+  "author": {
+    "name": "Fan"
+  },
+  "license": "Apache-2.0"
+}

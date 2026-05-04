@@ -1,0 +1,15 @@
+npx ctx7 setup --claude
+
+claude mcp add firecrawl --transport http "https://mcp.firecrawl.dev/fc-b446ed0826b6c795/v2/mcp
+
+#安装前端设计
+npx skills add https://github.com/anthropics/skills --skill frontend-design"
+
+# 全局
+npm install -g uipro-cli
+
+# Go to your project
+cd /path/to/your/project
+
+# Install for your AI assistant
+uipro init --ai claude      # Claude Code
